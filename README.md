@@ -8,7 +8,7 @@ We'll create a social media selector menu that displays social media text and ic
 ## demo
 ---
 
-click [here]() to see demo
+click [here](https://almousaz.github.io/social-media-selector/) to see demo
 
 
 
